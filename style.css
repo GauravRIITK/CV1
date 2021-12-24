@@ -1,0 +1,53 @@
+
+
+
+body{
+    text-align: center;
+    margin: 0;
+}
+
+h2{
+    font-family: 'Twinkle Star', cursive;
+    font-size: 50px;
+}
+
+
+.intro
+{
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.profile{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.skills{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.skill-row{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.contact-me{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.btn{
+    font-family: monospace;
+}
+.bottom-container{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.top-container{
+
+    
+    width: 100%;
+    background-color: #D3E4CD;
+    display: inline-block;
+    
+    text-align: center;
+    
+}
+img{
+    border-radius: 100%;
+}
